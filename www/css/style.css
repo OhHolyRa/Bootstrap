@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+ 
+main {
+    flex: 1;
+}
+
+.navbar {
+    background-color: rgb(110, 53, 46);
+}
+.jumbotron-fluid {
+
+    background-image: url(/images/rea.jpg);
+    background-size: cover;
+    
+}
+.card1 {
+    border: none;
+    width: 450px;
+}
+
+.jumbotron-fluid {
+
+    height: 1000px;
+}
+
+footer {
+
+    padding-left: 0;
+    padding-right: 0;
+    background-color:rgb(110, 53, 46);
+}
